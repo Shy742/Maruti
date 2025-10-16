@@ -1,0 +1,5 @@
+{
+  "name": "Maruti Suzuki Connect",
+  "description": "A replica of the Maruti Suzuki car companion app UI, providing vehicle status, remote controls, and service information in a modern, dark-themed interface.",
+  "requestFramePermissions": []
+}
